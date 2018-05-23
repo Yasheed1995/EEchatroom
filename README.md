@@ -1,2 +1,2 @@
 # EEchatroom
-run: node App.js
+run: node app.js
